@@ -46,4 +46,4 @@ MONGODB_URI=YOUR MONGODB URI
 JWT_SECRET=YOUR SECRET KEY
 ```
 ## Author
-[**Author**](https://github.com/sohelrana1304)
+[**Author**](https://github.com/supersenior017)
